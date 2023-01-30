@@ -1,0 +1,5 @@
+﻿  Argument.cpp
+D:\test_task\gen_csv\gen_csv\Argument.cpp(35,34): warning C4101: ex: неиспользованная локальная переменная
+D:\test_task\gen_csv\gen_csv\Argument.cpp(51,34): warning C4101: ex: неиспользованная локальная переменная
+D:\test_task\gen_csv\gen_csv\Argument.cpp(72,34): warning C4101: ex: неиспользованная локальная переменная
+  gen_csv.vcxproj -> D:\test_task\gen_csv\x64\Debug\gen_csv.exe
